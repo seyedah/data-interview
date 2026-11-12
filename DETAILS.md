@@ -71,8 +71,8 @@ are documented. **Trade-offs / limitations:**
 ## 3. Setup
 
 ```bash
-git clone <repo-url>
-cd data-engineer
+git clone https://github.com/seyedah/data-interview
+cd data-interview
 
 # optional but recommended
 make setup                 # creates .venv and installs requirements.txt
