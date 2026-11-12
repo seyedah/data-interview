@@ -1,0 +1,4 @@
+# The pipeline itself uses only the Python standard library (csv, sqlite3,
+# hashlib, logging, argparse) — zero runtime dependencies by design.
+# pytest is required only to run the test suite.
+pytest>=8.0
